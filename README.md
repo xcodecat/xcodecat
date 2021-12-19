@@ -9,5 +9,5 @@
 - 😄 Pronouns: Sie/She/Her 👩‍💻
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HolyCat125&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HolyCat125&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xcodecat&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodecat&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
