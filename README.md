@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+![shields.io](https://img.shields.io/badge/os-linux-success)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 - 🔭 I’m currently working on my bot: `H0lyB0t`
 - 🌱 I’m currently learning Python.
