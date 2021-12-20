@@ -3,9 +3,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on my bot: **H0lyB0t**
+- 🔭 I’m currently working on my bot: **H0lyB0t*
 - 🌱 I’m currently learning Python.
-- 😄 Pronouns: Sie/She/Her 👩‍💻
+- 😄 Pronouns: Sie/She/Her
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xcodecat&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodecat&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xcodecat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodecat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
