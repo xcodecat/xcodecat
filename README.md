@@ -16,15 +16,24 @@
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodecat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
+</div>
 
 
 ### Frameworks
-<img src="https://cdn.discordapp.com/attachments/857979752991031296/928221250520760330/wire1.png" width="40px" height="40px">
+<div style="display: flex; flex-direction: row;">
+  <img src="https://cdn.discordapp.com/attachments/857979752991031296/928221250520760330/wire1.png" width="40px" height="40px">
+</div>  
 
 
 ### Tools & Software
-<img src="https://cdn.discordapp.com/attachments/857979752991031296/928241026555084840/vscode.png" width="40px" height="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" width="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" heigth="40px" width="40px"/>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://cdn.discordapp.com/attachments/857979752991031296/928241026555084840/vscode.png" width="40px" height="40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" heigth="40px" width="40px"/>
+</div>
