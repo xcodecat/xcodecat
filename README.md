@@ -27,7 +27,7 @@
 
 ### Frameworks
 <div style="display: flex; flex-direction: row;">
-  <img src="https://cdn.discordapp.com/attachments/857979752991031296/928221250520760330/wire1.png" width="40px" height="40px">
+  <img src="https://cdn.discordapp.com/attachments/857979752991031296/942470898286485524/Logo1.svg" width="40px" height="40px">
 </div>  
 
 
