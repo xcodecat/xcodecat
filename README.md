@@ -3,7 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on some Projects :D
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Python, HTML & CSS and a bit of JS.
 - 😄 Pronouns: Sie/She/Her
 
