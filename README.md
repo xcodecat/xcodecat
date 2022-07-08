@@ -35,6 +35,7 @@
 
 ### Tools & Software
 <div style="display: flex; flex-direction: row;">
+  <img src="https://cdn.discordapp.com/attachments/857979752991031296/995017439937056790/molecule.png" height="40px" width="40px"/>
   <img src="https://cdn.discordapp.com/attachments/857979752991031296/928241026555084840/vscode.png" width="40px" height="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
