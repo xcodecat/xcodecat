@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning Python, HTML & CSS and a bit of JS.
+- 🌱 I’m currently learning Python, HTML & CSS.
 
 
 **Join this [Discord](https://discord.gg/fP6nhSKkA2). :D**
