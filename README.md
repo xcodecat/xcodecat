@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Python, HTML & CSS and a bit of JS.
-- 😄 Pronouns: Sie/She/Her
 
 
 **Join this [Discord](https://discord.gg/fP6nhSKkA2). :D**
