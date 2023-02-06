@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Laura aka xcodecat. 👋</h1>
 <h3 align="center">A Programming Novice from Germany.</h3>
+
 ![shields.io](https://img.shields.io/badge/in%20love%20with-leo-critical) ![shields.io](https://img.shields.io/badge/os-linux-success) ![shields.io](https://img.shields.io/badge/learning-python-important)
 
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
