@@ -1,10 +1,11 @@
-### Hey there 👋
+<h1 align="center">Hey there, I'm Laura aka xcodecat. 👋</h1>
+<h3 align="center">A Programming Novice from Germany.</h3>
 ![shields.io](https://img.shields.io/badge/in%20love%20with-leo-critical) ![shields.io](https://img.shields.io/badge/os-linux-success) ![shields.io](https://img.shields.io/badge/learning-python-important)
 
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning Python, HTML & CSS.
+- 🔭 I’m currently working on [weather-frontend](https://github.com/xcodecat/weather-frontend).
+- 🌱 I’m currently learning JavaScript and Java, while improving my HTML, CSS and Python skills.
 
 
 **Join this [Discord](https://discord.gg/fP6nhSKkA2). :D**
