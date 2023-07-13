@@ -1,5 +1,5 @@
 # 💫 About Me:
-� I'm currently working on [weathernaut](https://github.com/xcodecat/weathernaut)<br>🌱 I'm currently learning JavaScript, Python, HTML & CSS<br>
+🚀 I'm currently working on [weathernaut](https://github.com/xcodecat/weathernaut)<br>🌱 I'm currently learning JavaScript, Python, HTML & CSS<br>
 
 
 ## 🌐 Socials:
