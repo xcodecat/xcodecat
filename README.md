@@ -1,46 +1,24 @@
-<h1 align="center">Hey there, I'm Laura aka xcodecat. 👋</h1>
-<h3 align="center">A Programming Novice from Germany.</h3>
-
-![shields.io](https://img.shields.io/badge/in%20love%20with-leo-critical) ![shields.io](https://img.shields.io/badge/os-linux-success) ![shields.io](https://img.shields.io/badge/learning-python-important)
-
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-- 🔭 I’m currently working on [weather-frontend](https://github.com/xcodecat/weather-frontend).
-- 🌱 I’m currently learning JavaScript and Java, while improving my HTML, CSS and Python skills.
+# 💫 About Me:
+� I'm currently working on [weathernaut](https://github.com/xcodecat/weathernaut)<br>🌱 I'm currently learning JavaScript, Python, HTML & CSS<br>
 
 
-**Join this [Discord](https://discord.gg/fP6nhSKkA2). :D**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fP6nhSKkA2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/xcodecat) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xcodecat&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xcodecat&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodecat&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xcodecat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xcodecat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodecat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Languages
-<div style="display: flex; flex-direction: row;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=xcodecat&icon=8&color=10)](https://visitcount.itsvg.in)
 
-
-### Frameworks
-<div style="display: flex; flex-direction: row;">
-  <img src="https://cdn.discordapp.com/attachments/857979752991031296/942470898286485524/Logo1.svg" width="40px" height="40px">
-  <img src="https://cdn.discordapp.com/attachments/833975608274583552/972446367723171870/2ABXjyQc_4x.png" width="40px" height="40px">
-</div>  
-
-
-### Tools & Software
-<div style="display: flex; flex-direction: row;">
-  <img src="https://cdn.discordapp.com/attachments/857979752991031296/995017439937056790/molecule.png" height="40px" width="40px"/>
-  <img src="https://cdn.discordapp.com/attachments/857979752991031296/928241026555084840/vscode.png" width="40px" height="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" heigth="40px" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40px" widt="40px"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
