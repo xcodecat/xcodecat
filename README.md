@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on [problems](https://github.com/xcodecat/problems)<br>🌱 I'm currently learning JavaScript, Python, Kotlin, HTML & CSS<br>
+🚀 I'm currently having [problems](https://github.com/xcodecat/problems)<br>🌱 I'm currently learning JavaScript, Python, Kotlin, HTML & CSS<br>
 
 
 ## 🌐 Socials:
