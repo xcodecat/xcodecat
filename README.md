@@ -7,7 +7,6 @@
 
 [![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/xcodecat)
 
-
 ## 💻 Tech Stack
 
 ### 🖥️ Web & Backend  
@@ -54,11 +53,25 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📈 GitHub Insights
+---
+
+## 🎵 Currently Listening
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7dd2kvc76jf2mm66zfyt3abf1&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7dd2kvc76jf2mm66zfyt3abf1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Insights
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=xcodecat&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodecat&layout=compact&theme=tokyonight) |
+
+---
 
 ## ⏱️ Coding Time (via Wakapi)
 
