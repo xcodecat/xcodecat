@@ -2,10 +2,11 @@
 
 🚀 I'm currently diving deeper into programming and creative tools.  
 💡 I enjoy building things, learning by doing, and exploring new technologies — from backend APIs to pixel art.
-
 ## 🌐 Where to find me
 
 [![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/xcodecat)
+[![Twitter](https://img.shields.io/badge/-Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xcodecat)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-%230088FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/xcodecat.xyz)
 
 ## 💻 Tech Stack
 
